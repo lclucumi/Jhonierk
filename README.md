@@ -1,6 +1,8 @@
 <h1 align="center"> ⚡ Hello World!!! 👋 </h1>
 
+<p align="center">
 <img src="https://media.giphy.com/media/IFF4S7gJCvxY09dTjE/giphy.gif" alt="readme" width="700">
+</p>
 
 ## My GitHub Stats 📋
 
