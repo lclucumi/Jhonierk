@@ -1,10 +1,11 @@
 <h1 align="center"> :computer: Hello I'm Jhonnyer Otalvaro!!! 👋 </h1>
 
 * I am a Systems Technologist graduated from the U.S.C (Universidad Santiago de Cali).
-* I am currently studying at the Holberton School software academy
+* I am currently studying at the **[Holberton School](https://www.holbertonschool.com/)** software academy
 * I have a great interest in web development
 * I am a person passionate about technology and loves to learn new things every day, I am characterized by being responsible, proactive and creative.
 
+<img align="center" src="https://github.com/Jhonierk/Jhonierk/blob/main/Image/97231-152.jpg" />
 
 ## My GitHub Stats 📋
 
