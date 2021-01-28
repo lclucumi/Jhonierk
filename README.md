@@ -1,6 +1,11 @@
-<h1 align="center"> ⚡ Hello World!!! 👋 </h1>
+<h1 align="center"> :computer: Hello World!!! 👋 </h1>
 
+* I am a Systems Technologist graduated from the U.S.C (Universidad Santiago de Cali).
+* I am currently studying at the Holberton School software academy
+* I have a great interest in web development
+* I am a person passionate about technology and loves to learn new things every day, I am characterized by being responsible, proactive and creative.
 
+<img src="https://www.freepik.es/vector-premium/programador-trabajando-software-ilustracion-plana-dibujos-animados-desarrollador-web-independiente-computadora-aislada_4632251.htm">
 
 ## My GitHub Stats 📋
 
