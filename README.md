@@ -5,7 +5,9 @@
 * I have a great interest in web development
 * I am a person passionate about technology and loves to learn new things every day, I am characterized by being responsible, proactive and creative.
 
+<p align="center">
 <img align="center" src="https://github.com/Jhonierk/Jhonierk/blob/main/Image/97231-152.jpg" />
+</p>
 
 ## My GitHub Stats 📋
 
